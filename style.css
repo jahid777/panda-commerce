@@ -62,8 +62,3 @@ footer{
 .form-control{
   margin-bottom: 10px;
 }
-@media(max-width:700){
-    .col-md-5{
-        margin-bottom: 10px;
-    }
-}
